@@ -1,0 +1,15 @@
+{
+  "name": "nodenew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_routing.js",
+  "scripts": {
+    "start": "nodemon node_routing.js"
+  },
+  "author": "Debarshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
